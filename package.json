@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo/mvp",
+  "name": "@monorepo/undefined",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -51,5 +51,14 @@
   "engines": {
     "node": ">=24"
   },
-  "packageManager": "pnpm@10.18.2"
+  "packageManager": "pnpm@10.18.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/my-website/my-website.git"
+  },
+  "author": "my-website",
+  "bugs": {
+    "url": "https://github.com/my-website/my-website/issues"
+  },
+  "homepage": "https://github.com/my-website/my-website#readme"
 }
