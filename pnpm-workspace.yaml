@@ -1,0 +1,12 @@
+packages:
+  - "apps/**"
+  - "configs/**"
+  - "packages/**"
+  - "turbo/generators/templates/**"
+  - "!**/**/dist"
+  - "!**/**/lib"
+  - "benchmarks/**"
+allowBuilds:
+  esbuild: false
+  sharp: false
+  unrs-resolver: false
