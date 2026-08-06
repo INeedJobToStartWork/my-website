@@ -1,4 +1,4 @@
-import { ProfileLayout } from "@/components";
+import { Button, ProfileLayout } from "@/components";
 
 //----------------------
 // Page
