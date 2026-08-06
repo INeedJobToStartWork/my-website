@@ -20,7 +20,8 @@
 }
 
 .wrapper {
-  @apply max-tablet:w-[90%] m-auto h-auto w-[80%] max-w-400;
+  /* @apply max-tablet:w-[90%] m-auto h-auto w-[80%] max-w-400; */
+  @apply max-tablet:w-[90%] w-[80%] m-auto h-auto  max-w-[800px];
 }
 
 :root {
